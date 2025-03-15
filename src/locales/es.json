@@ -1,0 +1,14 @@
+{
+    "Position": "Posición",
+    "Company": "Empresa",
+    "Salary": "Salario",
+    "City": "Ciudad",
+    "PublicationDate": "Fecha de Publicación",
+    "Views": "No. de Visitas",
+    "SwitchToSpanish": "Cambiar a Español",
+    "SwitchToEnglish": "Cambiar a Inglés",
+    "Manager": "Gerente",
+    "Software Engineer": "Ingeniero de Software",
+    "Nurse": "Enfermero",
+    "Million": "{salary, number} {salary, plural, one {millón} other {millones}}"
+  }
